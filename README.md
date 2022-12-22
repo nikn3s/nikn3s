@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on python projects, and learning Kivy - python libary for building cross-platform applications. In the near future, I want to renew my  journey with C (I only know how to print hello world, lol), and begin learning Solidity as I heard that it is used 
 - 💞️ I’m looking to collaborate on ... (stay tuned..)
 - 📫 You can contact me via either Instagram (@nikoattheway), or Discord (nikn3s#8724).
+- 📝 Be kind; Be ready.
 
 <!---
 nikn3s/nikn3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
