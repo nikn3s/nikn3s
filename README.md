@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nikn3s, a 16 year old guy currently residing in the UK 😎, fascinated by ever-evolving tech industry.
+- 👋 ...fascinated by ever-evolving tech industry.
 - a
-- 💞️ I’m looking to collaborate on ... (stay tuned..)
-- 📫 You can contact me via either Instagram (@nikoattheway), or Discord (nikn3s#8724).
+- 📫 You can contact me via Discord (nikn3s).
 - 📝 Be kind; Be ready.
 
 <!---
