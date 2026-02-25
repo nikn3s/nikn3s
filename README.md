@@ -1,6 +1,6 @@
 - 👋 ...fascinated by ever-evolving tech industry.
-- a
-- 📫 You can contact me via Discord (nikn3s).
+- 🌐 Personal website: [Link](https://niko.super.site/ "Link")
+- 📫 Contact: github.hexagram797@passfwd.com
 - 📝 Be kind; Be ready.
 
 <!---
